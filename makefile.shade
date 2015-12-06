@@ -1,6 +1,6 @@
 
 var AUTHORS='Herbert Bodner'
 
-
-
-k-test
+-//use-standard-lifecycle
+k-standard-goals
+-//k-test
