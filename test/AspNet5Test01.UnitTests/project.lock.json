@@ -4286,7 +4286,7 @@
   "libraries": {
     "AspNet5Test01.Bl/1.0.0": {
       "type": "project",
-      "path": "../AspNet5Test01.Bl/project.json"
+      "path": "../../src/AspNet5Test01.Bl/project.json"
     },
     "Microsoft.CSharp/4.0.1-beta-23409": {
       "type": "package",
