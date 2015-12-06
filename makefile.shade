@@ -3,4 +3,4 @@ var AUTHORS='Herbert Bodner'
 
 -//use-standard-lifecycle
 k-standard-goals
-
+k-test
